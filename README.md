@@ -2,6 +2,8 @@
 
 Analyzer v1 is a program for monitoring and mounting/unmounting block devices using PyQt5, pyudev, and `udisksctl`.
 
+![screen](https://github.com/user-attachments/assets/4a84c822-6685-49d2-b4da-17c14b7ee950)
+
 ## Features
 
 - Monitors block device events (add/remove).
